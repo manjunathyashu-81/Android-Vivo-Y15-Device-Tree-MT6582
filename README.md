@@ -1,0 +1,1 @@
+# Android-Vivo-Y15-Device-Tree-MT6582
